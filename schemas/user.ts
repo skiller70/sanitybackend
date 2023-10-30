@@ -25,5 +25,10 @@ export default {
         title: 'Bio',
         type: 'text',
       },
+      {
+        title: 'Image URL',
+        name: 'imageUrl',
+        type: 'url',
+      },
     ],
   };

@@ -1,6 +1,6 @@
 export default {
     name: 'arcanas',
-    title: 'Arcana',
+    title: 'Arcanas',
     type: 'document',
     fields: [
       {
