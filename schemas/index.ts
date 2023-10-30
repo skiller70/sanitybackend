@@ -1,5 +1,6 @@
-import arcanas from "./arcanas";
+
 import heros from "./heros";
+import product from "./product";
 import user from "./user";
 
-export const schemaTypes = [user,arcanas,heros]
+export const schemaTypes = [user,heros,product]
