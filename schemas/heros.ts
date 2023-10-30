@@ -4,7 +4,7 @@ export default {
     type: 'document',
     fields: [
       {
-        name: 'hero',
+        name: 'name',
         title: 'Add Hero',
         type: 'string',
       },
