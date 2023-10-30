@@ -1,5 +1,5 @@
-import arcana from "./arcana";
+import arcanas from "./arcanas";
 import heros from "./heros";
 import user from "./user";
 
-export const schemaTypes = [user,arcana,heros]
+export const schemaTypes = [user,arcanas,heros]
