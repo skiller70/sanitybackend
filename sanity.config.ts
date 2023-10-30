@@ -5,10 +5,10 @@ import {schemaTypes} from './schemas'
 
 export default defineConfig({
   name: 'default',
-  title: 'sanity-backend',
+  title: 'sanitywithskiller',
 
   projectId: '1nfyl9bk',
-  dataset: 'production',
+  dataset: 'skiller',
 
   plugins: [deskTool(), visionTool()],
 
