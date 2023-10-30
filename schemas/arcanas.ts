@@ -22,8 +22,11 @@ export default {
       title: 'Poster',
       name: 'poster',
       type: 'image',
-    
-   
+    },
+    {
+      title: 'Image URL',
+      name: 'imageUrl',
+      type: 'url',
     },
   ],
 }
